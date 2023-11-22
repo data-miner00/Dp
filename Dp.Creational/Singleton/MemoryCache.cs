@@ -2,7 +2,7 @@
 {
     internal class MemoryCache
     {
-        private static MemoryCache instance;
+        private static MemoryCache? instance;
 
         private MemoryCache()
         {
