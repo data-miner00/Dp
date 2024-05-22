@@ -6,3 +6,8 @@ Design pattern learning workspace. Kickstarted by [Raw Coding's C# Design Patter
 
 - [Pluralsight Design Patterns in C#](https://app.pluralsight.com/paths/skill/design-patterns-in-c)
 - [Refactoring Guru](https://refactoring.guru/)
+- [Gang of Four Design Patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns)
+
+## Repositories
+
+- [design-patterns](https://github.com/raw-coding-youtube/design-patterns)

@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dp.Structural", "Dp.Structu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dp.Functional", "Dp.Functional\Dp.Functional.csproj", "{DDB41C6E-1E07-4A12-B254-DF52CD7E3EA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.UnitTests", "Dp.Creational.UnitTests\Dp.Creational.UnitTests.csproj", "{A7B14207-D499-4CF8-8D5B-B128B46AD40A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dp.Creational.UnitTests", "Dp.Creational.UnitTests\Dp.Creational.UnitTests.csproj", "{A7B14207-D499-4CF8-8D5B-B128B46AD40A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CCE6926-E89A-473B-B25E-ABF107359849}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
