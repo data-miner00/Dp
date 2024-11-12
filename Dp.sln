@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dp.ConsoleApp", "Dp.ConsoleApp\Dp.ConsoleApp.csproj", "{7D97D5CC-9680-4D8D-BE5B-F1B5B8A22E9C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dp.Behavioral", "Dp.Behavioral\Dp.Behavioral.csproj", "{EC97222C-8145-4815-A086-D7E4EAEA3A65}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dp.Behavioral.UnitTests", "Dp.Behavioral.UnitTests\Dp.Behavioral.UnitTests.csproj", "{AD6BF165-94FF-4B90-9351-3D7E99A93FE2}"
@@ -20,7 +18,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CCE6926-E89A-473B-B25E-ABF107359849}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
 		Directory.Build.props = Directory.Build.props
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
@@ -29,10 +31,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D97D5CC-9680-4D8D-BE5B-F1B5B8A22E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D97D5CC-9680-4D8D-BE5B-F1B5B8A22E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D97D5CC-9680-4D8D-BE5B-F1B5B8A22E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D97D5CC-9680-4D8D-BE5B-F1B5B8A22E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EC97222C-8145-4815-A086-D7E4EAEA3A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EC97222C-8145-4815-A086-D7E4EAEA3A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC97222C-8145-4815-A086-D7E4EAEA3A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
