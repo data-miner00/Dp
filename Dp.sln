@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.AbstractFacto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.AbstractFactory.UnitTests", "Tests\Dp.Creational.AbstractFactory.UnitTests\Dp.Creational.AbstractFactory.UnitTests.csproj", "{25DCCE3E-6035-4881-B96C-FF0986CFAE1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Builder", "Dp.Creational.Builder\Dp.Creational.Builder.csproj", "{F5226252-2F1D-432D-A08B-779BB218EB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Builder.UnitTests", "Tests\Dp.Creational.Builder.UnitTests\Dp.Creational.Builder.UnitTests.csproj", "{E265880E-CC3D-40AA-B012-EDABDB26B9A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +95,14 @@ Global
 		{25DCCE3E-6035-4881-B96C-FF0986CFAE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25DCCE3E-6035-4881-B96C-FF0986CFAE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25DCCE3E-6035-4881-B96C-FF0986CFAE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5226252-2F1D-432D-A08B-779BB218EB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5226252-2F1D-432D-A08B-779BB218EB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5226252-2F1D-432D-A08B-779BB218EB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5226252-2F1D-432D-A08B-779BB218EB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E265880E-CC3D-40AA-B012-EDABDB26B9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E265880E-CC3D-40AA-B012-EDABDB26B9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E265880E-CC3D-40AA-B012-EDABDB26B9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E265880E-CC3D-40AA-B012-EDABDB26B9A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
