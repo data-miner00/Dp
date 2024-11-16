@@ -12,6 +12,8 @@ Creates a concrete object step by step. The example are based on my experience a
 
 Just an epiphany, I think I understand the builder pattern more now. I can use the existing `User` and `UserBuilder`, extend the builder to have `InternalUserBuilder`, `ExternalUserBuilder` etc to have each concrete builder to fill in the relevant information and create a concrete user. Just still have doubts on why a Director class is needed. Is it necessary?
 
+It works like a recipe, here is this recipe, build this for me, something like that.
+
 Todo
 - [ ] Implement `InternalUserBuilder` and `ExternalUserBuilder`
 

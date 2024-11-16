@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Builder.UnitT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Prototype", "Dp.Creational.Prototype\Dp.Creational.Prototype.csproj", "{5DE313BA-398B-41E8-93F3-42A521ACF52C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Prototype.UnitTests", "Tests\Dp.Creational.Prototype.UnitTests\Dp.Creational.Prototype.UnitTests.csproj", "{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{5DE313BA-398B-41E8-93F3-42A521ACF52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DE313BA-398B-41E8-93F3-42A521ACF52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DE313BA-398B-41E8-93F3-42A521ACF52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
