@@ -8,6 +8,7 @@ Creational
 
 - [x] Singleton
 - [ ] Factory Method
+- [x] Abstract factory
 
 ## Resources
 
