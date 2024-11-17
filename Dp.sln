@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Adapter", "Dp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Adapter.UnitTests", "Tests\Dp.Structural.Adapter.UnitTests\Dp.Structural.Adapter.UnitTests.csproj", "{275316B5-D042-4D52-8175-2705A9C15F80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Bridge", "Dp.Structural.Bridge\Dp.Structural.Bridge.csproj", "{180FCA6C-028B-4C09-AC00-0EA264A1C496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Bridge.UnitTests", "Tests\Dp.Structural.Bridge.UnitTests\Dp.Structural.Bridge.UnitTests.csproj", "{6BFFCA03-7E87-48D8-B177-48B2877F877F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +125,14 @@ Global
 		{275316B5-D042-4D52-8175-2705A9C15F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{275316B5-D042-4D52-8175-2705A9C15F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{275316B5-D042-4D52-8175-2705A9C15F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180FCA6C-028B-4C09-AC00-0EA264A1C496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180FCA6C-028B-4C09-AC00-0EA264A1C496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180FCA6C-028B-4C09-AC00-0EA264A1C496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180FCA6C-028B-4C09-AC00-0EA264A1C496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFFCA03-7E87-48D8-B177-48B2877F877F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFFCA03-7E87-48D8-B177-48B2877F877F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFFCA03-7E87-48D8-B177-48B2877F877F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFFCA03-7E87-48D8-B177-48B2877F877F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
