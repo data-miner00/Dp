@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Prototype", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Prototype.UnitTests", "Tests\Dp.Creational.Prototype.UnitTests\Dp.Creational.Prototype.UnitTests.csproj", "{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Adapter", "Dp.Structural.Adapter\Dp.Structural.Adapter.csproj", "{6AA097A1-E9FB-427D-8EEB-4A26AB7066E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Adapter.UnitTests", "Tests\Dp.Structural.Adapter.UnitTests\Dp.Structural.Adapter.UnitTests.csproj", "{275316B5-D042-4D52-8175-2705A9C15F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +113,14 @@ Global
 		{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF32732A-9A04-4314-ADCC-0E69FF0CBD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA097A1-E9FB-427D-8EEB-4A26AB7066E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA097A1-E9FB-427D-8EEB-4A26AB7066E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA097A1-E9FB-427D-8EEB-4A26AB7066E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA097A1-E9FB-427D-8EEB-4A26AB7066E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275316B5-D042-4D52-8175-2705A9C15F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275316B5-D042-4D52-8175-2705A9C15F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275316B5-D042-4D52-8175-2705A9C15F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275316B5-D042-4D52-8175-2705A9C15F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

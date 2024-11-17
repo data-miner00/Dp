@@ -10,6 +10,7 @@ Creational
 - [ ] Factory Method
 - [x] Abstract factory
 - [ ] Builder
+- [x] Adapter
 
 ## Resources
 
