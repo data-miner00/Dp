@@ -10,7 +10,13 @@ Creational
 - [ ] Factory Method
 - [x] Abstract factory
 - [ ] Builder
+
+Structural
+
 - [x] Adapter
+- [x] Bridge
+- [x] Composite
+- [x] Decorator
 
 ## Resources
 
