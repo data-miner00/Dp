@@ -17,6 +17,7 @@ Structural
 - [x] Bridge
 - [x] Composite
 - [x] Decorator
+- [ ] Facade
 
 ## Resources
 
