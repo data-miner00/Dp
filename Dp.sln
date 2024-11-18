@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Composite.Uni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Facade", "Dp.Structural.Facade\Dp.Structural.Facade.csproj", "{F9311594-DABC-48C3-B30F-C539FDCEABB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Proxy", "Dp.Structural.Proxy\Dp.Structural.Proxy.csproj", "{28AFA3EB-4B54-44B2-9C11-7C127A26B6B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Structural.Proxy.UnitTests", "Tests\Dp.Structural.Proxy.UnitTests\Dp.Structural.Proxy.UnitTests.csproj", "{05D05139-2E6B-4E1C-8EC0-CA4106DC821F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,6 +167,14 @@ Global
 		{F9311594-DABC-48C3-B30F-C539FDCEABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9311594-DABC-48C3-B30F-C539FDCEABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9311594-DABC-48C3-B30F-C539FDCEABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AFA3EB-4B54-44B2-9C11-7C127A26B6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AFA3EB-4B54-44B2-9C11-7C127A26B6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AFA3EB-4B54-44B2-9C11-7C127A26B6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AFA3EB-4B54-44B2-9C11-7C127A26B6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D05139-2E6B-4E1C-8EC0-CA4106DC821F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D05139-2E6B-4E1C-8EC0-CA4106DC821F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D05139-2E6B-4E1C-8EC0-CA4106DC821F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D05139-2E6B-4E1C-8EC0-CA4106DC821F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
