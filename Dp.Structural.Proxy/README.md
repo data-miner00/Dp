@@ -13,3 +13,8 @@ Surrogate?
 
 - Decorator uses dependency injection
 - Proxy just **new** the object
+
+## Use cases
+
+- Feature toggle
+- Rate limiting

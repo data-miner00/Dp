@@ -18,6 +18,8 @@ Structural
 - [x] Composite
 - [x] Decorator
 - [ ] Facade
+- [x] Proxy
+- [ ] Flyweight
 
 ## Resources
 
