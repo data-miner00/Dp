@@ -24,6 +24,7 @@ Structural
 Behavioral
 
 - [x] Template Method
+- [x] Strategy
 
 ## Resources
 

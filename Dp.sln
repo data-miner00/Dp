@@ -74,6 +74,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.TemplateMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.TemplateMethod.UnitTests", "Tests\Dp.Behavioral.TemplateMethod.UnitTests\Dp.Behavioral.TemplateMethod.UnitTests.csproj", "{C6001F0E-6FC4-4911-B414-4F68983DBE51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.Strategy", "Dp.Behavioral.Strategy\Dp.Behavioral.Strategy.csproj", "{19A7519E-2709-4E71-A154-B99D49A237DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.Strategy.UnitTests", "Tests\Dp.Behavioral.Strategy.UnitTests\Dp.Behavioral.Strategy.UnitTests.csproj", "{60217222-F9F0-43A0-A1FD-0842D39D8111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -200,6 +204,14 @@ Global
 		{C6001F0E-6FC4-4911-B414-4F68983DBE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6001F0E-6FC4-4911-B414-4F68983DBE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6001F0E-6FC4-4911-B414-4F68983DBE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A7519E-2709-4E71-A154-B99D49A237DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A7519E-2709-4E71-A154-B99D49A237DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A7519E-2709-4E71-A154-B99D49A237DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A7519E-2709-4E71-A154-B99D49A237DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60217222-F9F0-43A0-A1FD-0842D39D8111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60217222-F9F0-43A0-A1FD-0842D39D8111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60217222-F9F0-43A0-A1FD-0842D39D8111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60217222-F9F0-43A0-A1FD-0842D39D8111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
