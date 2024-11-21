@@ -82,6 +82,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.Command", "Dp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.Command.UnitTests", "Tests\Dp.Behavioral.Command.UnitTests\Dp.Behavioral.Command.UnitTests.csproj", "{BDB11620-6527-4319-A037-2B09266ACE46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.Memento", "Dp.Behavioral.Memento\Dp.Behavioral.Memento.csproj", "{565D8D7A-E7F4-479D-A962-7C714217DDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Behavioral.Memento.UnitTests", "Tests\Dp.Behavioral.Memento.UnitTests\Dp.Behavioral.Memento.UnitTests.csproj", "{8D799930-B26D-4AD4-8004-E2FA96CAB784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -224,6 +228,14 @@ Global
 		{BDB11620-6527-4319-A037-2B09266ACE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB11620-6527-4319-A037-2B09266ACE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB11620-6527-4319-A037-2B09266ACE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565D8D7A-E7F4-479D-A962-7C714217DDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565D8D7A-E7F4-479D-A962-7C714217DDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565D8D7A-E7F4-479D-A962-7C714217DDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565D8D7A-E7F4-479D-A962-7C714217DDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D799930-B26D-4AD4-8004-E2FA96CAB784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D799930-B26D-4AD4-8004-E2FA96CAB784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D799930-B26D-4AD4-8004-E2FA96CAB784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D799930-B26D-4AD4-8004-E2FA96CAB784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

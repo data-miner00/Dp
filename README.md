@@ -25,6 +25,8 @@ Behavioral
 
 - [x] Template Method
 - [x] Strategy
+- [x] Command
+- [x] Memento
 
 ## Resources
 
