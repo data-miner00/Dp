@@ -31,6 +31,7 @@ Behavioral
 - [ ] Chain of Responsibility
 - [x] Observer
 - [x] State
+- [x] Iterator
 
 ## Resources
 
