@@ -29,6 +29,7 @@ Behavioral
 - [x] Memento
 - [ ] Mediator
 - [ ] Chain of Responsibility
+- [x] Observer
 
 ## Resources
 
