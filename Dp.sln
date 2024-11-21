@@ -26,7 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dp.Creational.Singleton", "Dp.Creational.Singleton\Dp.Creational.Singleton.csproj", "{19998980-5D39-4E02-9998-FA10A7DDF1D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Singleton.UnitTests", "Dp.Creational.Singleton.UnitTests\Dp.Creational.Singleton.UnitTests.csproj", "{AB77D76D-DE0C-4E8D-8308-153A17E31CDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.Singleton.UnitTests", "Tests\Dp.Creational.Singleton.UnitTests\Dp.Creational.Singleton.UnitTests.csproj", "{AB77D76D-DE0C-4E8D-8308-153A17E31CDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dp.Creational.FactoryMethod", "Dp.Creational.FactoryMethod\Dp.Creational.FactoryMethod.csproj", "{CB3BD5EF-20EE-4E21-AE0A-8175B885855A}"
 EndProject
