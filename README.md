@@ -30,6 +30,7 @@ Behavioral
 - [ ] Mediator
 - [ ] Chain of Responsibility
 - [x] Observer
+- [x] State
 
 ## Resources
 
