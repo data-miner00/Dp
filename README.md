@@ -27,6 +27,7 @@ Behavioral
 - [x] Strategy
 - [x] Command
 - [x] Memento
+- [ ] Mediator
 
 ## Resources
 
