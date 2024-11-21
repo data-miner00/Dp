@@ -28,6 +28,7 @@ Behavioral
 - [x] Command
 - [x] Memento
 - [ ] Mediator
+- [ ] Chain of Responsibility
 
 ## Resources
 
