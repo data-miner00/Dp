@@ -32,6 +32,7 @@ Behavioral
 - [x] Observer
 - [x] State
 - [x] Iterator
+- [x] Visitor
 
 ## Resources
 
