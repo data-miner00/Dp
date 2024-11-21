@@ -1,5 +1,0 @@
-﻿Use Case for Abstract Factory Pattern
-
-1. When a system requires to work with multiple families of products
-
-2. When a family of related product (e.g Discount service and shipping service) that are intended to be used together.
