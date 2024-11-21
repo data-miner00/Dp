@@ -1,12 +1,6 @@
 ﻿namespace Dp.Behavioral.Command.UnitTests;
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-internal sealed class CommandContextTests
+public sealed class CommandContextTests
 {
     private readonly UserRepository repository = new();
     private readonly CommandContext context = new();
