@@ -33,6 +33,8 @@ Behavioral
 - [x] State
 - [x] Iterator
 - [x] Visitor
+- [x] Null Object
+- [x] Marker Interface
 
 ## Resources
 
